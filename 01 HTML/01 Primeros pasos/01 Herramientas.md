@@ -14,3 +14,4 @@
 + [Documentacion](https://developer.mozilla.org/es/docs/Web/HTML)
 + [htmlreference](https://htmlreference.io/)
 + [estandar y especificaciones](https://html.spec.whatwg.org/dev/introduction.html)
++ [validar el html de una pagina](https://validator.w3.org/#validate_by_upload)
